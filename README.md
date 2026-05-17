@@ -46,6 +46,13 @@
 
 ---
 
+### 📌 Featured projects
+
+- 🛡️ **[threat-intel-agent](https://github.com/AbelRodriguez97/threat-intel-agent)** — AI agent that processes threat intelligence feeds with Gemini + LangChain to extract IOCs and generate automated reports.
+- 📐 **[algorithms-practice](https://github.com/AbelRodriguez97/algorithms-practice)** — Daily practice of data structures and algorithms in Python with complexity analysis.
+
+---
+
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-rodriguez-gomez-20a446132/)
